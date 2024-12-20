@@ -1,0 +1,23 @@
+#click-me {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+}
+
+#click-me:hover {
+    background-color: #000000;
+}
+
+#click-me:active {
+    background-color: #000000;
+}
+
